@@ -48,7 +48,7 @@ const PrivacySection: React.FC = () => {
             ))}
           </div>
 
-          {/* <p className="text-gray-700 leading-relaxed">
+          <p className="text-gray-700 leading-relaxed">
             For any inquiries related to data privacy, please contact{' '}
             <a 
               href="mailto:privacy@codepath.in" 
@@ -56,7 +56,7 @@ const PrivacySection: React.FC = () => {
             >
               privacy@codepath.in
             </a>
-          </p> */}
+          </p>
         </div>
       </div>
     </section>
